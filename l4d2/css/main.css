@@ -9,7 +9,7 @@ body {
 }
 
 #mainContainer {
-	background-image:url(imag/bg_main.jpg);
+	background-image:url(img/bg_main.jpg);
 	background-repeat:no-repeat;
 	background-color:#000000;
 	background-position:center top;
@@ -26,5 +26,5 @@ body {
 	width:1000px;
 	height:700px;
 	position:relative;
-	background-image:url(imag/bg_server.jpg);
+	background-image:url(img/bg_server.jpg);
 }
